@@ -1,7 +1,7 @@
 version: 1
 extends:
-- https://raw.githubusercontent.com/Open-Scholar-Nexus/oaktree-sapling/v0.1.0/nexus.yml
-- https://raw.githubusercontent.com/Open-Scholar-Nexus/oaktree-sapling-config/v0.1.0/climatematch-2023.yml
+- https://raw.githubusercontent.com/impact-scholars/impact-scholars.github.io/v0.1.0/nexus.yml
+- https://raw.githubusercontent.com/impact-scholars/isp-actions-config/v0.1.0/climatematch-2023.yml
 
 project:
   doi: 10.5281/zenodo.11069131
@@ -33,4 +33,4 @@ project:
   - ENSO
   - Coastal Upwelling
   - Modoki El Niño
-  github: https://github.com/Open-Scholar-Nexus/ray-2023-enso-upwelling-africa
+  github: https://github.com/impact-scholars/ray-2023-enso-upwelling-africa
